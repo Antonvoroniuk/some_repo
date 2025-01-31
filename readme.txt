@@ -1,3 +1,3 @@
 hello world!
-day 3
-30.01.25
+day 4
+31.01.25
